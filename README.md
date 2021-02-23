@@ -1,6 +1,6 @@
-Set Game - Assignment 3
-Stanford University's course CS193p 
-(Developing Applications for iOS using SwiftUI)
+# Set Game - Assignment 3
+## Stanford University's course CS193p 
+### (Developing Applications for iOS using SwiftUI)
 
 <p align="center">
  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
@@ -9,7 +9,7 @@ Stanford University's course CS193p
 <br>
 
 <p align="center">
-  <img alt="Set Game" src="assets/setgame.gif" width="100%">
+  <img alt="Set Game" src="assets/setgame.gif">
 </p>
 
 ## 💻 Projeto
